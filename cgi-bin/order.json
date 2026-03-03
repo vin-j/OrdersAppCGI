@@ -1,0 +1,54 @@
+[
+    {
+        "product": "massoi",
+        "quantity": "1"
+    },
+    {
+        "product": "massoi",
+        "quantity": "1"
+    },
+    {
+        "product": "Apple",
+        "quantity": "10"
+    },
+    {
+        "product": "Apple",
+        "quantity": "10"
+    },
+    {
+        "product": "choclate",
+        "quantity": "10"
+    },
+    {
+        "product": "Laptop",
+        "quantity": "10"
+    },
+    {
+        "product": "Laptop",
+        "quantity": "100"
+    },
+    {
+        "product": "LaptopDell",
+        "quantity": "1000"
+    },
+    {
+        "product": "LaptopDell",
+        "quantity": "15"
+    },
+    {
+        "product": "LaptopDell",
+        "quantity": "50"
+    },
+    {
+        "product": "LaptopDell",
+        "quantity": "14"
+    },
+    {
+        "product": "LaptopDell",
+        "quantity": "18"
+    },
+    {
+        "product": "LaptopDell",
+        "quantity": "250"
+    }
+]

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Order Form</title>
+    <link rel="stylesheet" href="order.css">
+</head>
+<body>
+
+<div class="order-container">
+    <h2>Place Your Order</h2>
+
+    <form method="POST" action="/cgi-bin/order.cgi">
+
+        <label>Product</label>
+        <input type="text" name="product" placeholder="Enter product name">
+
+
+        <label>Quantity</label>
+        <input type="number" name="quantity" value="1" min="1">
+
+        <input type="submit" value="Submit Order">
+    </form>
+</div>
+
+</body>
+</html>
